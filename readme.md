@@ -1,3 +1,4 @@
-Master 1
+- Master 1
 - client 1
-Master 1
+- Master 1
+- Client 1
